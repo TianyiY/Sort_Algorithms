@@ -1,2 +1,2 @@
 # Sort_Algorithms
-several popular sort algorithms
+popular sort algorithms
